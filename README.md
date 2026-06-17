@@ -17,22 +17,25 @@
 
 ## <font color="#FAD02C">𝐀𝐂𝐓𝐈𝐕𝐄 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆</font>
 
+
 <p align="center">
-
-<img src="https://img.shields.io/badge/🚩%20CTFs-WiCyS Cyber Defense Challenge%20%7C%20Wicked6 Team Attack Defense-blue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/🐍%20Python-Learning%20%7C%20Scripting%20%7C%20Automation-blue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/🏠%20Home%20Lab-Kali%20Linux%20%7C%20Windows%20VMs%20%7C%20Networking-blue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/🔍%20TryHackMe-Learning%20Paths%20%7C%20Cyber%20Labs-blue?style=for-the-badge" />
-
+<a href="https://medium.com/@cybersecjess/amazons-attack-2025-target-cyber-defense-challenge-tier-2-write-up-46769fdd26f8"><img src="https://img.shields.io/badge/🚩%20CTFs-WiCyS + Target Cyber Defense Challenge-blue?style=for-the-badge" />
 </p>
+<p align="center">  
+<a href="https://github.com/MissJe55/LPTHW"><img src="https://img.shields.io/badge/🐍%20Python-Learning%20%7C%20Scripting%20%7C%20Automation-blue?style=for-the-badge" />
+</p>
+<p align="center">  
+<img src="https://img.shields.io/badge/🏠%20Home%20Lab-Kali%20Linux%20%7C%20Windows%20VMs%20%7C%20Networking-blue?style=for-the-badge" />
+</p>
+<p align="center">  
+<img src="https://img.shields.io/badge/🔍%20TryHackMe-Learning%20Paths%20%7C%20Cyber%20Labs-blue?style=for-the-badge" />
+</p>
+
 <br>
 
 ## <font color="#FAD02C">𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓𝐒</font>
 <p align="center">
-<img src="https://img.shields.io/badge/Network+-Certified-yellow?style=for-the-badge"/>
+<a href="https://www.credly.com/badges/205c9868-ae39-4af8-ae81-af0ecc2344dd/public_url"><img src="https://img.shields.io/badge/Network+-Certified-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GSEC-Certified-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GICF-Certified-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GCIH-Certified-yellow?style=for-the-badge"/>
