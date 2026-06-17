@@ -5,7 +5,7 @@
 <br><br>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=9000&color=FAD02C&center=false&vcenter=true&width=1100&height=50&lines=Hi!+I'm+Jess!+|+Career+Changer+|+Capture+The+Flag+Competitor+|+Life+Long+Learner;Hi!+I'm+Jess!+|+Career+Changer+|+Capture+The+Flag+Competitor+|+Life+Long+Learner&loop=false&keepStatic=true&pause=10000" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=9000&color=FAD02C&center=false&vcenter=true&width=1200&height=50&lines=Hi!+I'm+Jess!+|+Career+Changer+|+Capture+The+Flag+Competitor+|+Cybersecurity+Enthusiast;Hi!+I'm+Jess!+|+Career+Changer+|+Capture+The+Flag+Competitor+|+Cybersecurity+Enthusiast&loop=false&keepStatic=true&pause=10000" alt="Typing Animation"/>
 </p>
 
 <hr>
